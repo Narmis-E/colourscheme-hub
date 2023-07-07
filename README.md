@@ -7,8 +7,7 @@ This Repository acts as a centralised hub for the discovery and showcase of diff
 For now this repository will only cover colourschemes which have a GTK theme counterpart to standard terminal 8 colour ANSI sequence and vice versa.
 
 ## List of colour schemes
-[Catppuccin](https://github.com/Narmis-E/colourscheme-hub/tree/main/catppuccin)
+- [Arc-Darker](https://github.com/Narmis-E/colourscheme-hub/tree/main/arc-dark)
+- [Catppuccin](https://github.com/Narmis-E/colourscheme-hub/tree/main/catppuccin)
 []()
 []()
-
-## Showcase
