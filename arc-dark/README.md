@@ -95,4 +95,4 @@ A flat theme with transparent elements for GTK 2,3,4 and Gnome-Shell.
 ### Rice Example:
 
 ![](https://i.redd.it/5b6xjpt5mku71.png)
-Credits: [teutobald](https://github.com/teutobald)\
+Credits: [teutobald](https://github.com/teutobald)
