@@ -9,5 +9,5 @@ For now this repository will only cover colourschemes which have a GTK theme cou
 ## List of colour schemes
 - [Arc-Darker](https://github.com/Narmis-E/colourscheme-hub/tree/main/arc-dark)
 - [Catppuccin](https://github.com/Narmis-E/colourscheme-hub/tree/main/catppuccin)
-[]()
+- [Dracula](https://github.com/Narmis-E/colourscheme-hub/tree/main/dracula)
 []()
