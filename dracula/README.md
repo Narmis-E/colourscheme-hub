@@ -1,4 +1,4 @@
-# Arc-Dark
+# Dracula
 ### Description:
 A dark theme for GTK.
 
@@ -7,7 +7,7 @@ A dark theme for GTK.
 ![](./dracula_palette.png)
 
 <details>
-<summary>Arc-Dark</summary>
+<summary>dracula</summary>
 <table>
 	<tr>
 		<th>Colour</th>
