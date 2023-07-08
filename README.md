@@ -17,5 +17,6 @@ For now this repository will only cover colourschemes which have a GTK theme cou
 | <p align="center">[nord](https://github.com/Narmis-E/colourscheme-hub/tree/main/nord)</p> | <img src="nord/nord_palette.png" alt="Nord"></img> | <img src="nord/nord.png" alt="Nord"></img> |
 | <p align="center">[onedark](https://github.com/Narmis-E/colourscheme-hub/blob/main/onedark/)</p> | <img src="onedark/onedark_palette.png" alt="One Dark"></img> | <img src="onedark/onedark.png" alt="One Dark"></img> |
 | <p align="center">[rosepine](https://github.com/Narmis-E/colourscheme-hub/blob/main/rosepine/)</p> | <img src="rosepine/rosepine_palette.png" alt="Rosepine"></img> | <img src="rosepine/rosepine.png" alt="Rosepine"></img> |
+| <p align="center">[solarized](https://github.com/Narmis-E/colourscheme-hub/blob/main/solarized/)</p> | <img src="solarized/solarized_palette.png" alt="Solarized"></img> | <img src="solarized/solarized.png" alt="Solarized"></img> |
 | <p align="center">[tokyonight](https://github.com/Narmis-E/colourscheme-hub/blob/main/tokyonight/)</p> | <img src="tokyonight/tokyonight_palette.png" alt="Tokyonight"></img> | <img src="tokyonight/tokyonight.png" alt="Tokyonight"></img> |
 
