@@ -13,3 +13,4 @@ For now this repository will only cover colourschemes which have a GTK theme cou
 - [everforest](https://github.com/Narmis-E/colourscheme-hub/blob/main/everforest/)
 - [nord](https://github.com/Narmis-E/colourscheme-hub/tree/main/nord)
 - [onedark](https://github.com/Narmis-E/colourscheme-hub/blob/main/onedark/)
+- [rosepine](https://github.com/Narmis-E/colourscheme-hub/blob/main/rosepine/)
