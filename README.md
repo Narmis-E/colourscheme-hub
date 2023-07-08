@@ -6,7 +6,7 @@ More often than not, colourschemes are often created for the themeing for GTK, a
 This repository acts as a centralised hub for the discovery and showcase of different GTK colourschemes for newcomers to the ricing scene, or for users searching for something fresh.\
 For now this repository will only cover colourschemes which have a GTK theme counterpart to standard terminal 8 colour ANSI sequence and vice versa.
 
-## List of colour schemes
+## Popular colourschemes
 | Theme                                | Preview                                                   | Widget
 | -------------------------------------| --------------------------------------------------------- | ---------------------------------------|
 | <p align="center">[arc-dark](https://github.com/Narmis-E/colourscheme-hub/tree/main/arc-dark)</p> | <img src="arc-dark/arc_dark_palette.png" alt="Arc Dark"></img> | <img src="arc-dark/arc_dark.png" alt="Arc Dark"></img> |
