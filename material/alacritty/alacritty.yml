@@ -1,0 +1,31 @@
+colors:
+  name: Material
+  author: ""
+  primary:
+    background: "#222221"
+    foreground: "#e4e4e4"
+  cursor:
+    text: "#16aec9"
+    cursor: "#16aec9"
+  selection:
+    text: "#222221"
+    background: "#dedede"
+  normal:
+    black: "#212121"
+    red: "#b7141e"
+    green: "#457b23"
+    yellow: "#f5971d"
+    blue: "#134eb2"
+    magenta: "#550087"
+    cyan: "#0e707c"
+    white: "#eeeeee"
+  bright:
+    black: "#424242"
+    red: "#e83a3f"
+    green: "#7aba39"
+    yellow: "#fee92e"
+    blue: "#53a4f3"
+    magenta: "#a94dbb"
+    cyan: "#26bad1"
+    white: "#d8d8d8"
+
