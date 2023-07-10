@@ -25,5 +25,4 @@
 
 | Rice Example |
 | --- |
-| ![Catppuccin Rice Example](https://github.com/Narmis-E/bspwm-catppuccin/blob/main/images/rice-complete.png)<br>Credits: [Me!](https://github.com/Narmis-E/bspwm-catppuccin)<br>Yes I am aware the bar colour isn't from the palette, or even the wall (it was my first rice)
-|
+| ![Catppuccin Rice Example](https://github.com/Narmis-E/bspwm-catppuccin/blob/main/images/rice-complete.png)<br>Credits: [Me!](https://github.com/Narmis-E/bspwm-catppuccin)<br>Yes I am aware the bar colour isn't from the palette, or even the wall (it was my first rice) |
