@@ -1,98 +1,33 @@
-# Gruvbox
-### Description:
-A bright theme with pastel 'retro groove' colors.
+<h1 align="center">Gruvbox</h1>
 
-### Color Palette:
+| Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
+| :---: | :---: | :---: | :---: | :---: |
+| [Gruvbox](https://github.com/morhetz/gruvbox) | A bright theme with pastel 'retro groove' colors. | ![Gruvbox Palette](./gruvbox_palette.png) | ![Gruvbox Widgets and UI Elements](./gruvbox.png) | [Pling](https://www.pling.com/p/1681313/) |
 
-![](./gruvbox_palette.png)
+
 
 <details>
-<summary>Gruvbox</summary>
-<table>
-	<tr>
-		<th>Colour</th>
-		<th>Hex</th>
-	</tr>
-	<tr>
-		<td>Background</td>
-		<td><code>#3C3836</code></td>
-	</tr>
-  <tr>
-		<td>Background-bright</td>
-		<td><code>#928374</code></td>
-	</tr>
-  <tr>
-		<td>Red</td>
-		<td><code>#CC241D</code></td>
-	</tr>
-  <tr>
-		<td>Red-Bright</td>
-		<td><code>#FB4934</code></td>
-	</tr>
-  <tr>
-		<td>Green</td>
-		<td><code>#98971A</code></td>
-	</tr>
-  <tr>
-		<td>Green-Bright</td>
-		<td><code>#B8BB26</code></td>
-	</tr>
-  <tr>
-		<td>Yellow</td>
-		<td><code>#D79921</code></td>
-	</tr>
-  <tr>
-		<td>Yellow-Bright</td>
-		<td><code>#FABD2F</code></td>
-	</tr>
-  <tr>
-		<td>Blue</td>
-		<td><code>#458588</code></td>
-	</tr>
-  <tr>
-		<td>Blue-Bright</td>
-		<td><code>#83A598</code></td>
-	</tr>
-  <tr>
-		<td>Purple</td>
-		<td><code>#B16286</code></td>
-	</tr>
-  <tr>
-		<td>Purple-Bright</td>
-		<td><code>#D3869B</code></td>
-	</tr>
-  <tr>
-		<td>Aqua</td>
-		<td><code>#689D6A</code></td>
-	</tr>
-  <tr>
-		<td>Aqua-Bright</td>
-		<td><code>#8EC07C</code></td>
-	</tr>
-    <tr>
-		<td>Foreground</td>
-		<td><code>#A89984</code></td>
-	</tr>
-    <tr>
-		<td>Foreground-Bright</td>
-		<td><code>#FBF1C7</code></td>
-	</tr>
-</table>
-</details>
+<summary>Gruvbox Palette</summary>
 
-### Widgets and UI Elements:
+| Code | Colour             | Hex       | Code | Colour             | Hex       |
+|----------------------|--------------------|-----------|----------------------|--------------------|-----------|
+| 1                    | Background         | `#3C3836` | 9                    | Background-bright  | `#928374` |
+| 2                    | Red                | `#CC241D` | 10                   | Red-Bright         | `#FB4934` |
+| 3                    | Green              | `#98971A` | 11                   | Green-Bright       | `#B8BB26` |
+| 4                    | Yellow             | `#D79921` | 12                   | Yellow-Bright      | `#FABD2F` |
+| 5                    | Blue               | `#458588` | 13                   | Blue-Bright        | `#83A598` |
+| 6                    | Purple             | `#B16286` | 14                   | Purple-Bright      | `#D3869B` |
+| 7                    | Aqua               | `#689D6A` | 15                   | Aqua-Bright        | `#8EC07C` |
+| 8                    | Foreground         | `#A89984` | 16                   | Foreground-Bright  | `#FBF1C7` |
 
-![](./gruvbox.png)
 
-### GTK Themes:
-[Pling](https://www.pling.com/p/1681313/)
+</details> 
 
-### Terminal Theme:
+| Terminal Emulators    | Theme                                                                                                                                                                 |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Kitty                | `kitty +kitten themes`                                                                                             |
+| Alacritty             | You can find the theme in the [alacritty-theme](https://github.com/alacritty/alacritty-theme) repository                                                                                               |
 
-Kitty provides in `kitty +kitten themes`\
-[Alacritty](https://github.com/eendroroy/alacritty-theme/blob/master/schemes.yaml)
-
-### Rice Example:
-
-![](https://preview.redd.it/2rtkdd1yuxh71.png?width=960&crop=smart&auto=webp&v=enabled&s=f02e04b39dc4bc439020dad624443757da2188ef)
-Credits: [u/ItsGiack](https://www.reddit.com/r/unixporn/comments/p66d7v/kde_my_beloved_gruvbox_rice/)
+| Rice Example |
+| --- |
+|![Gruvbox Rice Example](https://preview.redd.it/2rtkdd1yuxh71.png?width=960&crop=smart&auto=webp&v=enabled&s=f02e04b39dc4bc439020dad624443757da2188ef)<br>Credits: [u/ItsGiack](https://www.reddit.com/r/unixporn/comments/p66d7v/kde_my_beloved_gruvbox_rice/) |
