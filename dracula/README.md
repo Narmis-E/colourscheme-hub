@@ -1,75 +1,31 @@
-# Dracula
-### Description:
-A dark theme for GTK.
+<h1 align="center">Dracula</h1>
 
-### Color Palette:
-
-![](./dracula_palette.png)
+| Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
+| :---: | :---: | :---: | :---: | :---: |
+| [Dracula](https://github.com/dracula/gtk) | A dark theme for GTK. | ![Dracula Palette](./dracula_palette.png) | ![Dracula Widgets and UI Elements](./dracula.png) | [Official GitHub Repo](https://github.com/dracula/gtk) |
 
 <details>
-<summary>dracula</summary>
-<table>
-	<tr>
-		<th>Colour</th>
-		<th>Hex</th>
-	</tr>
-	<tr>
-		<td>Background</td>
-		<td><code>#000000</code></td>
-	</tr>
-  <tr>
-		<td>Background-bright</td>
-		<td><code>#545454</code></td>
-	</tr>
-  <tr>
-		<td>Red</td>
-		<td><code>#FF5555</code></td>
-	</tr>
-  <tr>
-		<td>Green</td>
-		<td><code>#50FA7B</code></td>
-	</tr>
-  <tr>
-		<td>Yellow</td>
-		<td><code>#F0FA8B</code></td>
-  </tr>
-  <tr>
-		<td>Purple</td>
-		<td><code>#BD92F8</code></td>
-	</tr>
-  <tr>
-		<td>Pink</td>
-		<td><code>#FF78C5</code></td>
-	</tr>
-  <tr>
-		<td>Cyan</td>
-		<td><code>#8AE9FC</code></td>
-	</tr>
-  <tr>
-		<td>Foreground</td>
-		<td><code>#BBBBBB</code></td>
-	</tr>
-  <tr>
-		<td>Foreground-Bright</td>
-		<td><code>#FFFFFF</code></td>
-	</tr>
-</table>
-</details>
+<summary>Dracula Palette</summary>
 
-Note: for some reason the colours lost their bright alts in an update? weird.
+| Code | Colour             | Hex       | Code | Colour             | Hex       |
+|------|--------------------|-----------|------|--------------------|-----------|
+| 1    | Background         | `#000000` | 9    | Background-bright  | `#545454` |
+| 2    | Red                | `#FF5555` |	10	 | -									|						|
+| 3    | Green              | `#50FA7B` | 11   | -									|						|
+| 4    | Yellow             | `#F0FA8B` | 12   | -									|						|
+| 5	   | Purple             | `#BD92F8` | 13   | -									|						|
+| 6    | Pink               | `#FF78C5` | 14   | -									|						|
+| 7    | Cyan               | `#8AE9FC` | 15   | -									|						|
+| 8    | Foreground         | `#BBBBBB` | 16	 | Foreground-Bright  | `#FFFFFF` |
 
-### Widgets and UI Elements:
+The bright variants of the colors seem to be missing?
 
-![](./dracula.png)
+</details> 
 
-### GTK Themes:
-[Official Github Repo](https://github.com/dracula/gtk)
+| Terminal Emulators | Theme	|
+|--------------------|--------|
+| * 								 | Search for your terminal [here](https://draculatheme.com) |
 
-### Terminal Theme:
-
-Search for your terminal [here](https://draculatheme.com/)
-
-### Rice Example:
-
-![](https://i.ytimg.com/vi/0zbBrfrJMVQ/maxresdefault.jpg)
-Credits: [@tuxtarded7635](https://www.youtube.com/@tuxtarded7635/about)
+| Rice Example |
+| --- |
+|![Dracula Rice Example](https://i.ytimg.com/vi/0zbBrfrJMVQ/maxresdefault.jpg) <!-- Image source (probably reddit or github) --> <br>Credits: [@tuxtarded7635](https://www.youtube.com/@tuxtarded7635/about) |
