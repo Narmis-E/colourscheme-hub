@@ -2,12 +2,12 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| ["Theme"](https://myawesometheme.com)<!-- Link to theme source or creator --> | Description of your theme | !["Theme" Palette](./"theme"_palette.png) | !["Theme" Widgets and UI Elements](./"theme".png) | [Source](https://github.com/ricemaster69/my-epic-gtk-theme/releases/)<!-- link to your most recent gtk theme source e.g Pling, Github, Gnome-Looks --> |
+| ["Theme"](https://myawesometheme.com)<!-- Link to theme source or creator --> | Description of your theme | !["Theme" Palette](./"theme"_palette.png) | ![Widgets and UI Elements](./"theme".png) | [Source](https://github.com/ricemaster69/my-epic-gtk-theme/releases/)<!-- link to your most recent gtk theme source e.g Pling, Github, Gnome-Looks --> |
 
 <details>
 <summary>"Theme" Palette</summary>
 
-<!-- Your Subsitute your hex values below please -->
+<!-- Please Subsitute your hex values below please -->
 | Code | Colour             | Hex       | Code | Colour             | Hex       |
 |----------------------|--------------------|-----------|----------------------|--------------------|-----------|
 | 1                    | Background         | `#3C3836` | 9                    | Background-bright  | `#928374` |
