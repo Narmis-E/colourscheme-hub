@@ -1,98 +1,29 @@
-# Arc-Dark
-### Description:
-A flat theme with transparent elements for GTK 2,3,4 and Gnome-Shell.
+<h1 align="center">Arc-Dark</h1>
 
-### Color Palette:
-
-![](./arc_dark_palette.png)
+| Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
+| :---: | :---: | :---: | :---: | :---: |
+| [Arc-Dark]() | A flat theme with transparent elements for GTK 2,3,4 and Gnome-Shell. | ![Arc-Dark Palette](./arc_dark_palette.png) | ![Widgets and UI Elements](./arc_dark.png) | [Maintained Github Repo](https://github.com/jnsh/arc-theme) |
 
 <details>
-<summary>Arc-Dark</summary>
-<table>
-	<tr>
-		<th>Colour</th>
-		<th>Hex</th>
-	</tr>
-	<tr>
-		<td>Background</td>
-		<td><code>#4B5164</code></td>
-	</tr>
-  <tr>
-		<td>Background-bright</td>
-		<td><code>#616981</code></td>
-	</tr>
-  <tr>
-		<td>Red</td>
-		<td><code>#E14245</code></td>
-	</tr>
-  <tr>
-		<td>Red-Bright</td>
-		<td><code>#E16F7E</code></td>
-	</tr>
-  <tr>
-		<td>Green</td>
-		<td><code>#5CA75B</code></td>
-	</tr>
-  <tr>
-		<td>Green-Bright</td>
-		<td><code>#ADD488</code></td>
-	</tr>
-  <tr>
-		<td>Yellow</td>
-		<td><code>#F6AB32</code></td>
-	</tr>
-  <tr>
-		<td>Yellow-Bright</td>
-		<td><code>#FDC35F</code></td>
-	</tr>
-  <tr>
-		<td>Blue</td>
-		<td><code>#4877B1</code></td>
-	</tr>
-  <tr>
-		<td>Blue-Bright</td>
-		<td><code>#8CA9BF</code></td>
-	</tr>
-  <tr>
-		<td>Magenta</td>
-		<td><code>#A660C3</code></td>
-	</tr>
-  <tr>
-		<td>Magenta-Bright</td>
-		<td><code>#E2AFEC</code></td>
-	</tr>
-  <tr>
-		<td>Cyan</td>
-		<td><code>#5294E2</code></td>
-	</tr>
-  <tr>
-		<td>Cyan-Bright</td>
-		<td><code>#73C5E2</code></td>
-	</tr>
-    <tr>
-		<td>Foreground</td>
-		<td><code>#A9A9AA</code></td>
-	</tr>
-    <tr>
-		<td>Foreground-Bright</td>
-		<td><code>#FCFCFC</code></td>
-	</tr>
-</table>
-</details>
+<summary>Arc-Dark Palette</summary>
 
-### Widgets and UI Elements:
+| Code | Colour             | Hex       | Code | Colour             | Hex       |
+|----------------------|--------------------|-----------|----------------------|--------------------|-----------|
+| 1                    | Background         | `#4B5164` | 9                    | Background-bright  | `#616981` |
+| 2                    | Red                | `#E14245` | 10                   | Red-Bright         | `#E16F7E` |
+| 3                    | Green              | `#ADD488` | 11                   | Green-Bright       | `#ADD488` |
+| 4                    | Yellow             | `#F6AB32` | 12                   | Yellow-Bright      | `#FDC35F` |
+| 5                    | Blue               | `#4877B1` | 13                   | Blue-Bright        | `#8CA9BF` |
+| 6                    | Magenta            | `#A660C3` | 14                   | Magenta-Bright     | `#E2AFEC` |
+| 7                    | Cyan               | `#5294E2` | 15                   | Cyan-Bright        | `#73C5E2` |
+| 8                    | Foreground         | `#A9A9AA` | 16                   | Foreground-Bright  | `#FCFCFC` |
+</details> 
 
-![](./arc_dark.png)
+| Terminal Emulators   | Theme                                                                                                                                                                 |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Kitty               | I made my own [here](https://github.com/Narmis-E/colourscheme-hub/blob/main/arc-dark/kitty/Arc-Dark.conf)   |
+| Alacritty           | Available [here](https://gist.github.com/BobbyWibowo/8392af0c1bb3131c6e09b9395968b649)	                    |
 
-### GTK Themes:
-[Maintained Github Repo](https://github.com/jnsh/arc-theme)
-
-### Terminal Theme:
-
-[Kitty](https://github.com/Narmis-E/colourscheme-hub/blob/main/arc-dark/kitty/Arc-Dark.conf)\
-[Alacritty](https://gist.github.com/BobbyWibowo/8392af0c1bb3131c6e09b9395968b649)
-
-### Rice Example:
-
-![](https://i.redd.it/5b6xjpt5mku71.png)
-Credits: [teutobald](https://github.com/teutobald)
+| Rice Example |
+| --- |
+| ![Alacritty Rice Example](https://i.redd.it/5b6xjpt5mku71.png)<br>Credits: [teutobald](https://github.com/teutobald) |
