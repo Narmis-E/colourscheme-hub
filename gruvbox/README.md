@@ -26,7 +26,7 @@
 | Terminal Emulators    | Theme                                                                                                                                                                 |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Kitty                | `kitty +kitten themes`                                                                                             |
-| Alacritty             | You can find the theme in the [alacritty-theme](https://github.com/alacritty/alacritty-theme) repository                                                                                               |
+| Alacritty            | You can find the theme in the [alacritty-theme](https://github.com/alacritty/alacritty-theme) repository           |
 
 | Rice Example |
 | --- |
