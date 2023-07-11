@@ -1,67 +1,29 @@
-# Rosepine
-### Description:
-All natural pine, faux fur and a bit of soho vibes for the classy minimalist. 
+<h1 align="center">Rosé Pine</h1>
 
-### Color Palette:
-
-![](./rosepine_palette.png)
+| Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
+| :---: | :---: | :---: | :---: | :---: |
+| [Rosé Pine](https://rosepinetheme.com/) | All natural pine, faux fur and a bit of soho vibes for the classy minimalist. | ![Rosé Pine Palette](./rosepine_palette.png) | ![Widgets and UI Elements](./rosepine.png) | [Official Github Repo](https://github.com/rose-pine/gtk) |
 
 <details>
-<summary>Rosepine</summary>
-<table>
-	<tr>
-		<th>Colour</th>
-		<th>Hex</th>
-	</tr>
-	<tr>
-		<td>Background</td>
-		<td><code>#26233A</code></td>
-	</tr>
-  <tr>
-		<td>Background-bright</td>
-		<td><code>#6E6A86</code></td>
-	</tr>
-  <tr>
-		<td>Love</td>
-		<td><code>#EB6F92</code></td>
-	</tr>
-  <tr>
-		<td>Pine</td>
-		<td><code>#31748F</code></td>
-	</tr>
-  <tr>
-		<td>Gold</td>
-		<td><code>#F6C177</code></td>
-  </tr>
-  <tr>
-		<td>Foam</td>
-		<td><code>#9CCFD8</code></td>
-	</tr>
-  <tr>
-		<td>Iris</td>
-		<td><code>#C4A7E7</code></td>
-	</tr>
-  <tr>
-		<td>Rose</td>
-		<td><code>#EBBCBA</code></td>
-	</tr>
-  <tr>
-		<td>Foreground</td>
-		<td><code>#E0DEF4</code></td>
-	</tr>
-</table>
-</details>
+<summary>Rosé Pine Palette</summary>
 
-### Widgets and UI Elements:
+| Code | Colour             | Hex       | Code | Colour | Hex       |
+|------|--------------------|-----------|------|--------------------|-----------|
+| 1    | Background         | `#26233A` | 9  	 | Background-bright  | `#6E6A86` |
+| 2    | Love               | `#EB6F92` | -	 	 | -									|						|
+| 3    | Pine               | `#31748F` | -    | -									|						|
+| 4    | Gold	              | `#F6C177` |	-	   | -									|						|
+| 5    | Foam               | `#9CCFD8` |	-	   | -									|						|
+| 6    | Iris	            	| `#C4A7E7` |	-	   | -									|						|	
+| 7    | Rose               | `#EBBCBA` |	-	   | -									|						|
+| 8    | Foreground         | `#E0DEF4` | -	   | -		  						| 				  |
 
-![](./rosepine.png)
+</details> 
 
-### GTK Themes:
-[Official Github Repo](https://github.com/rose-pine/gtk)
+| Terminal Emulators   | Theme                                              |
+|----------------------|----------------------------------------------------|
+| *										 | search for your terminal [here](https://rosepinetheme.com/themes/) |
 
-### Terminal Theme:
-search for your terminal [here](https://rosepinetheme.com/themes/)
-
-### Rice Example:
-![2023-07-08-140555](https://github.com/Narmis-E/colourscheme-hub/assets/109248529/330b40de-4a4e-4f48-9b3f-e64cce24607e)
-Credits: [Me!](https://github.com/Narmis-E/sway-rosepine)
+| Rice Example |
+| --- |
+| ![Rosé Pine Rice Example](https://github.com/Narmis-E/colourscheme-hub/assets/109248529/330b40de-4a4e-4f48-9b3f-e64cce24607e)<br>Credits: [Me!](https://github.com/Narmis-E/sway-rosepine)
