@@ -1,70 +1,30 @@
-# OneDark
-### Description:
-A clean, vibrant and pleasing colourscheme based on Atom's iconic One Dark theme.
+<h1 align="center">OneDark</h1>
 
-### Color Palette:
-
-![](./onedark_palette.png)
+| Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
+| :---: | :---: | :---: | :---: | :---: |
+| [OneDark](https://github.com/joshdick/onedark.vim) | A clean, vibrant and pleasing colourscheme based on Atom's iconic One Dark theme. | ![OneDark Palette](./onedark_palette.png) | ![Widgets and UI Elements](./onedark.png) | [Github Repo](https://github.com/lonr/adwaita-one-dark) |
 
 <details>
-<summary>OneDark</summary>
-<table>
-	<tr>
-		<th>Colour</th>
-		<th>Hex</th>
-	</tr>
-	<tr>
-		<td>Background</td>
-		<td><code>#282C34</code></td>
-	</tr>
-  <tr>
-		<td>Background-bright</td>
-		<td><code>#5D677A</code></td>
-	</tr>
-  <tr>
-		<td>Red</td>
-		<td><code>#E06C75</code></td>
-	</tr>
-  <tr>
-		<td>Green</td>
-		<td><code>#98C379</code></td>
-	</tr>
-  <tr>
-		<td>Yellow</td>
-		<td><code>#E5C07B</code></td>
-  </tr>
-  <tr>
-		<td>Blue</td>
-		<td><code>#61AFEF</code></td>
-	</tr>
-  <tr>
-		<td>Purple</td>
-		<td><code>#C678DD</code></td>
-	</tr>
-  <tr>
-		<td>Cyan</td>
-		<td><code>#56B6C2</code></td>
-	</tr>
-  <tr>
-		<td>Foreground</td>
-		<td><code>#DCDFE4</code></td>
-	</tr>
-</table>
-</details>
+<summary>OneDark Palette</summary>
 
-### Widgets and UI Elements:
+| Code | Colour             | Hex       | Code | Colour | Hex       |
+|------|--------------------|-----------|------|--------------------|-----------|
+| 1    | Background         | `#282C34` | 9  	 | Background-bright  | `#5D677A` |
+| 2    | Red                | `#E06C75` | -	 	 | -									|						|
+| 3    | Green              | `#98C379` | -    | -									|						|
+| 4    | Yellow             | `#E5C07B` |	-	   | -									|						|
+| 5    | Blue               | `#61AFEF` |	-	   | -									|						|
+| 6    | Purple            	| `#C678DD` |	-	   | -									|						|	
+| 7    | Cyan               | `#56B6C2` |	-	   | -									|						|
+| 8    | Foreground         | `#DCDFE4` | -	   | -		  						| 				  |
 
-![](./onedark.png)
+</details> 
 
-### GTK Themes:
-[Github Repo](https://github.com/lonr/adwaita-one-dark)
+| Terminal Emulators   | Theme                                              |
+|----------------------|----------------------------------------------------|
+|	Kitty								 | 'One Half Dark' in `kitty +kitten themes`																										 |
+| Alacritty						 | Theme can be found [here](https://gist.github.com/r-darwish/f8bb21a6c89a02c4bef76cc38bddad39) |
 
-### Terminal Theme:
-
-[Alacritty](https://gist.github.com/r-darwish/f8bb21a6c89a02c4bef76cc38bddad39)\
-Kitty provides 'One Half Dark' in `kitty +kitten themes`
-
-### Rice Example:
-
-![](https://user-images.githubusercontent.com/109248529/230755110-108990ce-1a78-41e1-8455-370acffabd79.png)
-Credits: [Me!](https://github.com/Narmis-E/hyprland-dots)
+| Rice Example |
+| --- |
+| ![OneDark Rice Example](https://user-images.githubusercontent.com/109248529/230755110-108990ce-1a78-41e1-8455-370acffabd79.png)<br>Credits: [Me!](https://github.com/Narmis-E/hyprland-dots)
