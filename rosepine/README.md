@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Rosé Pine](https://rosepinetheme.com/) | All natural pine, faux fur and a bit of soho vibes for the classy minimalist. | ![Rosé Pine Palette](./rosepine_palette.png) | ![Rosé Pine Widgets and UI Elements](./rosepine.png) | [Official Github Repo](https://github.com/rose-pine/gtk) |
+| [Rosé Pine](https://rosepinetheme.com/) | All natural pine, faux fur and a bit of soho vibes for the classy minimalist. | ![Rosé Pine Palette](./rosepine_palette.png) | ![Rosé Pine Widgets and UI Elements](./rosepine_widgets.png) | [Official Github Repo](https://github.com/rose-pine/gtk) |
 
 <details>
 <summary>Rosé Pine Palette</summary>

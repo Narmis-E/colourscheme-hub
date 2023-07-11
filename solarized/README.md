@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Solarized](https://ethanschoonover.com/solarized/) | Precision colors for machines and people. | ![Solarized Palette](./solarized_palette.png) | ![Solarized Widgets and UI Elements](./solarized.png) | [Github Repo](https://github.com/Ferdi265/numix-solarized-gtk-theme) |
+| [Solarized](https://ethanschoonover.com/solarized/) | Precision colors for machines and people. | ![Solarized Palette](./solarized_palette.png) | ![Solarized Widgets and UI Elements](./solarized_widgets.png) | [Github Repo](https://github.com/Ferdi265/numix-solarized-gtk-theme) |
 
 
 

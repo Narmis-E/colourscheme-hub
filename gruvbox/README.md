@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Gruvbox](https://github.com/morhetz/gruvbox) | A bright theme with pastel 'retro groove' colors. | ![Gruvbox Palette](./gruvbox_palette.png) | ![Gruvbox Widgets and UI Elements](./gruvbox.png) | [Pling](https://www.pling.com/p/1681313/) |
+| [Gruvbox](https://github.com/morhetz/gruvbox) | A bright theme with pastel 'retro groove' colors. | ![Gruvbox Palette](./gruvbox_palette.png) | ![Gruvbox Widgets and UI Elements](./gruvbox_widgets.png) | [Pling](https://www.pling.com/p/1681313/) |
 
 
 

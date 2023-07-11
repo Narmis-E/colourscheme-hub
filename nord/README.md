@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Nord](https://www.nordtheme.com/) | An arctic, north-bluish color palette. | ![Nord Palette](./nord_palette.png) | ![Nord Widgets and UI Elements](./nord.png) | [Official Github Repo](https://github.com/EliverLara/Nordic) |
+| [Nord](https://www.nordtheme.com/) | An arctic, north-bluish color palette. | ![Nord Palette](./nord_palette.png) | ![Nord Widgets and UI Elements](./nord_widgets.png) | [Official Github Repo](https://github.com/EliverLara/Nordic) |
 
 <details>
 <summary>Nord Palette</summary>

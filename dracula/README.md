@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Dracula](https://github.com/dracula/gtk) | A dark theme for GTK. | ![Dracula Palette](./dracula_palette.png) | ![Dracula Widgets and UI Elements](./dracula.png) | [Official GitHub Repo](https://github.com/dracula/gtk) |
+| [Dracula](https://github.com/dracula/gtk) | A dark theme for GTK. | ![Dracula Palette](./dracula_palette.png) | ![Dracula Widgets and UI Elements](./dracula_widgets.png) | [Official GitHub Repo](https://github.com/dracula/gtk) |
 
 <details>
 <summary>Dracula Palette</summary>

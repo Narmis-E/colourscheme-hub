@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Monokai](https://monokai.pro/) | A color palette for professional developers. | ![Monokai Palette](./monokai_palette.png) | ![Monokai Widgets and UI Elements](./monokai.png) | [Github Repo](https://github.com/mitch-kyle/monokai-gtk) |
+| [Monokai](https://monokai.pro/) | A color palette for professional developers. | ![Monokai Palette](./monokai_palette.png) | ![Monokai Widgets and UI Elements](./monokai_widgets.png) | [Github Repo](https://github.com/mitch-kyle/monokai-gtk) |
 
 <details>
 <summary>Monokai Palette</summary>

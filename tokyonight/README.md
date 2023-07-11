@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) | A clean, dark theme that celebrates the lights of downtown Tokyo at night. | ![Tokyonight Palette](./tokyonight_palette.png) | ![Tokyonight Widgets and UI Elements](./tokyonight.png) | [Pling](https://www.pling.com/p/1681315/) |
+| [Tokyonight](https://github.com/enkia/tokyo-night-vscode-theme) | A clean, dark theme that celebrates the lights of downtown Tokyo at night. | ![Tokyonight Palette](./tokyonight_palette.png) | ![Tokyonight Widgets and UI Elements](./tokyonight_widgets.png) | [Pling](https://www.pling.com/p/1681315/) |
 
 <details>
 <summary>Tokyonight Palette</summary>

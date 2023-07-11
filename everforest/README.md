@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Everforest](https://github.com/sainnhe/everforest) | A green based color scheme designed to be warm and soft. | ![Everforest Palette](./everforest_palette.png) | ![Everforest Widgets and UI Elements](./everforest.png) | [Gnome-Look](https://www.gnome-look.org/p/1695467) |
+| [Everforest](https://github.com/sainnhe/everforest) | A green based color scheme designed to be warm and soft. | ![Everforest Palette](./everforest_palette.png) | ![Everforest Widgets and UI Elements](./everforest_widgets.png) | [Gnome-Look](https://www.gnome-look.org/p/1695467) |
 
 <details>
 <summary>Everforest Palette</summary>

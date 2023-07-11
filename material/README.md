@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Material](https://github.com/material-theme/vsc-material-theme) | A Material design theme for GNOME/GTK based desktop environments. | ![Material Palette](./material_palette.png) | ![Material Widgets and UI Elements](./material.png) | [Github Repo](https://github.com/nana-4/materia-theme) |
+| [Material](https://github.com/material-theme/vsc-material-theme) | A Material design theme for GNOME/GTK based desktop environments. | ![Material Palette](./material_palette.png) | ![Material Widgets and UI Elements](./material_widgets.png) | [Github Repo](https://github.com/nana-4/materia-theme) |
 
 
 

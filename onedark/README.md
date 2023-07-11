@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [OneDark](https://github.com/joshdick/onedark.vim) | A clean, vibrant and pleasing colourscheme based on Atom's iconic One Dark theme. | ![OneDark Palette](./onedark_palette.png) | ![OneDark Widgets and UI Elements](./onedark.png) | [Github Repo](https://github.com/lonr/adwaita-one-dark) |
+| [OneDark](https://github.com/joshdick/onedark.vim) | A clean, vibrant and pleasing colourscheme based on Atom's iconic One Dark theme. | ![OneDark Palette](./onedark_palette.png) | ![OneDark Widgets and UI Elements](./onedark_widgets.png) | [Github Repo](https://github.com/lonr/adwaita-one-dark) |
 
 <details>
 <summary>OneDark Palette</summary>

@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Arc-Dark](https://github.com/horst3180/arc-theme) | A flat theme with transparent elements for GTK 2,3,4 and Gnome-Shell. | ![Arc-Dark Palette](./arc_dark_palette.png) | ![Arc-Dark Widgets and UI Elements](./arc_dark.png) | [Maintained Github Repo](https://github.com/jnsh/arc-theme) |
+| [Arc-Dark](https://github.com/horst3180/arc-theme) | A flat theme with transparent elements for GTK 2,3,4 and Gnome-Shell. | ![Arc-Dark Palette](./arc_dark_palette.png) | ![Arc-Dark Widgets and UI Elements](./arc_dark_widgets.png) | [Maintained Github Repo](https://github.com/jnsh/arc-theme) |
 
 <details>
 <summary>Arc-Dark Palette</summary>

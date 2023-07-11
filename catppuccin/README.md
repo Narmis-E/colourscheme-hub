@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Catppuccin](https://github.com/catppuccin/catppuccin) | 😸 Soothing pastel theme for the high-spirited! | ![Catppuccin Palette](./catppuccin_palette.png) | ![Catppuccin Widgets and UI Elements](./catppuccin.png) | - [Gnome-Look](https://www.gnome-look.org/p/1715554) - [Official Github](https://github.com/catppuccin/gtk) - |
+| [Catppuccin](https://github.com/catppuccin/catppuccin) | 😸 Soothing pastel theme for the high-spirited! | ![Catppuccin Palette](./catppuccin_palette.png) | ![Catppuccin Widgets and UI Elements](./catppuccin_widgets.png) | - [Gnome-Look](https://www.gnome-look.org/p/1715554) - [Official Github](https://github.com/catppuccin/gtk) - |
 
 <details>
 <summary>🌿 Mocha Palette</summary>
