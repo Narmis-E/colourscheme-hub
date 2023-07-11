@@ -23,11 +23,11 @@
 
 </details> 
 
-| Terminal Emulators    | Theme                                                                                                                                                                 |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Kitty                | `kitty +kitten themes`                                                                                             |
-| Alacritty            | You can find the theme in the [alacritty-theme](https://github.com/alacritty/alacritty-theme) repository           |
+| Terminal Emulators | Theme                                                                                             |
+|--------------------|---------------------------------------------------------------------------------------------------|
+| Kitty              | `kitty +kitten themes`                                                                            |
+| Alacritty          | Theme available in the [alacritty-theme](https://github.com/alacritty/alacritty-theme) repository |
 
 | Rice Example |
 | --- |
-|![Gruvbox Rice Example](https://preview.redd.it/2rtkdd1yuxh71.png?width=960&crop=smart&auto=webp&v=enabled&s=f02e04b39dc4bc439020dad624443757da2188ef)<br>Credits: [u/ItsGiack](https://www.reddit.com/r/unixporn/comments/p66d7v/kde_my_beloved_gruvbox_rice/) |
+|![Gruvbox Rice Example](https://preview.redd.it/2rtkdd1yuxh71.png?width=960&crop=smart&auto=webp&v=enabled&s=f02e04b39dc4bc439020dad624443757da2188ef)<br>Rice Credits: [u/ItsGiack](https://www.reddit.com/r/unixporn/comments/p66d7v/kde_my_beloved_gruvbox_rice/) |

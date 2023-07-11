@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Arc-Dark]() | A flat theme with transparent elements for GTK 2,3,4 and Gnome-Shell. | ![Arc-Dark Palette](./arc_dark_palette.png) | ![Widgets and UI Elements](./arc_dark.png) | [Maintained Github Repo](https://github.com/jnsh/arc-theme) |
+| [Arc-Dark](https://github.com/horst3180/arc-theme) | A flat theme with transparent elements for GTK 2,3,4 and Gnome-Shell. | ![Arc-Dark Palette](./arc_dark_palette.png) | ![Arc-Dark Widgets and UI Elements](./arc_dark.png) | [Maintained Github Repo](https://github.com/jnsh/arc-theme) |
 
 <details>
 <summary>Arc-Dark Palette</summary>
@@ -19,11 +19,11 @@
 | 8                    | Foreground         | `#A9A9AA` | 16                   | Foreground-Bright  | `#FCFCFC` |
 </details> 
 
-| Terminal Emulators   | Theme                                                                                                                                                                 |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Kitty               | I made my own [here](https://github.com/Narmis-E/colourscheme-hub/blob/main/arc-dark/kitty/Arc-Dark.conf)   |
-| Alacritty           | Available [here](https://gist.github.com/BobbyWibowo/8392af0c1bb3131c6e09b9395968b649)	                    |
+| Terminal Emulators | Theme                                                                                                      |
+|--------------------|------------------------------------------------------------------------------------------------------------|
+| Kitty              | I made my own [here](https://github.com/Narmis-E/colourscheme-hub/blob/main/arc-dark/kitty/Arc-Dark.conf)  |
+| Alacritty          | Theme available [here](https://gist.github.com/BobbyWibowo/8392af0c1bb3131c6e09b9395968b649)	              |
 
 | Rice Example |
 | --- |
-| ![Alacritty Rice Example](https://i.redd.it/5b6xjpt5mku71.png)<br>Credits: [teutobald](https://github.com/teutobald) |
+| ![Alacritty Rice Example](https://i.redd.it/5b6xjpt5mku71.png)<br>Rice Credits: [teutobald](https://github.com/teutobald) |

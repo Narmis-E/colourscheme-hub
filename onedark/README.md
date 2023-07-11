@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [OneDark](https://github.com/joshdick/onedark.vim) | A clean, vibrant and pleasing colourscheme based on Atom's iconic One Dark theme. | ![OneDark Palette](./onedark_palette.png) | ![Widgets and UI Elements](./onedark.png) | [Github Repo](https://github.com/lonr/adwaita-one-dark) |
+| [OneDark](https://github.com/joshdick/onedark.vim) | A clean, vibrant and pleasing colourscheme based on Atom's iconic One Dark theme. | ![OneDark Palette](./onedark_palette.png) | ![OneDark Widgets and UI Elements](./onedark.png) | [Github Repo](https://github.com/lonr/adwaita-one-dark) |
 
 <details>
 <summary>OneDark Palette</summary>
@@ -20,11 +20,11 @@
 
 </details> 
 
-| Terminal Emulators   | Theme                                              |
-|----------------------|----------------------------------------------------|
-|	Kitty								 | 'One Half Dark' in `kitty +kitten themes`																										 |
-| Alacritty						 | Theme can be found [here](https://gist.github.com/r-darwish/f8bb21a6c89a02c4bef76cc38bddad39) |
+| Terminal Emulators | Theme                                                                                      |
+|--------------------|--------------------------------------------------------------------------------------------|
+|	Kitty							 | 'One Half Dark' in `kitty +kitten themes`																									|
+| Alacritty					 | Theme available [here](https://gist.github.com/r-darwish/f8bb21a6c89a02c4bef76cc38bddad39) |
 
 | Rice Example |
 | --- |
-| ![OneDark Rice Example](https://user-images.githubusercontent.com/109248529/230755110-108990ce-1a78-41e1-8455-370acffabd79.png)<br>Credits: [Me!](https://github.com/Narmis-E/hyprland-dots)
+| ![OneDark Rice Example](https://user-images.githubusercontent.com/109248529/230755110-108990ce-1a78-41e1-8455-370acffabd79.png)<br>Rice Credits: [Narmis-E](https://github.com/Narmis-E/hyprland-dots)

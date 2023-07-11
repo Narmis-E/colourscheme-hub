@@ -18,15 +18,13 @@
 | 7    | Aqua               | `#83C092` | 15   | -									|						|
 | 8    | Foreground         | `#859289` | 16	 | Foreground-Bright  | `#9DA9A0` |
 
-The bright variants of the colors seem to be missing?
-
 </details> 
 
-| Terminal Emulators | Theme	|
-|--------------------|--------|
-| Kitty              | `kitty +kitten themes`                                                                                             |
-| Alacritty          | You can find the theme [here](https://gist.github.com/sainnhe/6432f83181c4520ea87b5211fed27950)          					|
+| Terminal Emulators | Theme	                                                                                  |
+|--------------------|------------------------------------------------------------------------------------------|
+| Kitty              | `kitty +kitten themes`                                                                   |
+| Alacritty          | Theme available [here](https://gist.github.com/sainnhe/6432f83181c4520ea87b5211fed27950) |
 
 | Rice Example |
 | --- |
-|![Everforest Rice Example](https://user-images.githubusercontent.com/109248529/247356751-87386519-cfb3-48d4-9b8d-2976411c8226.png) <!-- Image source (probably reddit or github) --> <br>Credits: [Me!](https://github.com/Narmis-E/openbox-everforest) |
+|![Everforest Rice Example](https://user-images.githubusercontent.com/109248529/247356751-87386519-cfb3-48d4-9b8d-2976411c8226.png) <!-- Image source (probably reddit or github) --> <br>Rice Credits: [Narmis-E](https://github.com/Narmis-E/openbox-everforest) |

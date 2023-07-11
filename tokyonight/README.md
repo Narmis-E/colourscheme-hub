@@ -20,11 +20,11 @@
 
 </details> 
 
-| Terminal Emulators | Theme	|
-|--------------------|--------|
+| Terminal Emulators | Theme																																																				|
+|--------------------|--------------------------------------------------------------------------------------------------------------|
 | Kitty							 | `kitty +kitten themes`																																												|
 | Alacritty					 | Theme available [here](https://github.com/zatchheems/tokyo-night-alacritty-theme/blob/main/tokyo-night.yaml) |
 
 | Rice Example |
 | --- |
-|![Tokyonight Rice Example](https://raw.githubusercontent.com/Narmis-E/hyprland-dots/main/tokyonight/images/rice2.png) <!-- Image source (probably reddit or github) --> <br>Credits: [Me!](https://github.com/Narmis-E/hyprland-dots) |
+|![Tokyonight Rice Example](https://raw.githubusercontent.com/Narmis-E/hyprland-dots/main/tokyonight/images/rice2.png)<br>Rice Credits: [Narmis-E](https://github.com/Narmis-E/hyprland-dots) |

@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Catppuccin](https://github.com/catppuccin/catppuccin) | 😸 Soothing pastel theme for the high-spirited! | ![Catppuccin Palette](./catppuccin_palette.png) | ![Widgets and UI Elements](./catppuccin.png) | - [Gnome-Look](https://www.gnome-look.org/p/1715554) - [Official Github](https://github.com/catppuccin/gtk) - |
+| [Catppuccin](https://github.com/catppuccin/catppuccin) | 😸 Soothing pastel theme for the high-spirited! | ![Catppuccin Palette](./catppuccin_palette.png) | ![Catppuccin Widgets and UI Elements](./catppuccin.png) | - [Gnome-Look](https://www.gnome-look.org/p/1715554) - [Official Github](https://github.com/catppuccin/gtk) - |
 
 <details>
 <summary>🌿 Mocha Palette</summary>
@@ -19,10 +19,10 @@
 | 8    | Foreground         | `#BAC2DE` | 16   | Foreground-Bright  | `#A6ADC8` |
 </details> 
 
-| Terminal Emulators   | Theme                                              |
-|----------------------|----------------------------------------------------|
-| *										 | See the [offical github](https://github.com/catppuccin/catppuccin) for all of the terminal themes |
+| Terminal Emulators | Theme                                              |
+|--------------------|----------------------------------------------------|
+| *									 | See the [offical github](https://github.com/catppuccin/catppuccin) for all of the terminal themes |
 
 | Rice Example |
 | --- |
-| ![Catppuccin Rice Example](https://github.com/Narmis-E/bspwm-catppuccin/blob/main/images/rice-complete.png)<br>Credits: [Me!](https://github.com/Narmis-E/bspwm-catppuccin)<br>Yes I am aware the bar colour isn't from the palette, or even the wall (it was my first rice) |
+| ![Catppuccin Rice Example](https://github.com/Narmis-E/bspwm-catppuccin/blob/main/images/rice-complete.png)<br>Rice Credits: [Narmis-E](https://github.com/Narmis-E/bspwm-catppuccin)<br>Yes I am aware the bar colour isn't from the palette, or even the wall (it was my first rice) |

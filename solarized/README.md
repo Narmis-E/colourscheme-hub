@@ -23,12 +23,12 @@
 
 </details> 
 
-| Terminal Emulators    | Theme                                                                                                             |
-|----------------------|--------------------------------------------------------------------------------------------------------------------|
-| Kitty                | `kitty +kitten themes`                                                                                             |
-| Alacritty            | You can find the theme [here](https://github.com/alacritty/alacritty-theme/blob/master/schemes.yaml)        				|
+| Terminal Emulators | Theme                                                                                         |
+|--------------------|-----------------------------------------------------------------------------------------------|
+| Kitty              | `kitty +kitten themes`                                                                        |
+| Alacritty          | Theme available [here](https://github.com/alacritty/alacritty-theme/blob/master/schemes.yaml) |
 
 | Rice Example |
 | --- |
-|![Solarized Rice Example](https://preview.redd.it/dbkd6lvot7l81.png?width=960&crop=smart&auto=webp&v=enabled&s=eef0603674502d26bae84944533f1650f143ae87)<br>Credits: [u/talkfromMind](https://www.reddit.com/r/unixporn/comments/t5yruv/qtile_solarized_dark_first_ever_arch_install_and/) |
+|![Solarized Rice Example](https://preview.redd.it/dbkd6lvot7l81.png?width=960&crop=smart&auto=webp&v=enabled&s=eef0603674502d26bae84944533f1650f143ae87)<br>Rice Credits: [u/talkfromMind](https://www.reddit.com/r/unixporn/comments/t5yruv/qtile_solarized_dark_first_ever_arch_install_and/) |
 

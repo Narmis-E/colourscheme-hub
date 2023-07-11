@@ -18,14 +18,14 @@
 | 7    | Cyan               | `#8AE9FC` | 15   | -									|						|
 | 8    | Foreground         | `#BBBBBB` | 16	 | Foreground-Bright  | `#FFFFFF` |
 
-The bright variants of the colors seem to be missing?
+The bright variants of the colors seem to be missing? (they once existed before)
 
 </details> 
 
-| Terminal Emulators | Theme	|
-|--------------------|--------|
+| Terminal Emulators | Theme	                                                   |
+|--------------------|-----------------------------------------------------------|
 | * 								 | Search for your terminal [here](https://draculatheme.com) |
 
 | Rice Example |
 | --- |
-|![Dracula Rice Example](https://i.ytimg.com/vi/0zbBrfrJMVQ/maxresdefault.jpg) <!-- Image source (probably reddit or github) --> <br>Credits: [@tuxtarded7635](https://www.youtube.com/@tuxtarded7635/about) |
+|![Dracula Rice Example](https://i.ytimg.com/vi/0zbBrfrJMVQ/maxresdefault.jpg)<br>Rice Credits: [@tuxtarded7635](https://www.youtube.com/@tuxtarded7635/about) |

@@ -23,11 +23,11 @@
 
 </details> 
 
-| Terminal Emulators   | Theme  |
-|----------------------|--------|
-| Kitty                | `kitty +kitten themes`                                           |
-| Alacritty            | Made my own for [Alacritty](./alacritty/alacritty.yml)           |
+| Terminal Emulators | Theme                                                            |
+|--------------------|------------------------------------------------------------------|
+| Kitty              | `kitty +kitten themes`                                           |
+| Alacritty          | Made my own for [Alacritty](./alacritty/alacritty.yml)           |
 
 | Rice Example |
 | --- |
-|![Material Rice Example](https://images.pling.com/img/00/00/43/80/78/1229140/99c41b3a358c1d87fd833d6b327c9aaf998ac9f807dfbe161d3f6aed8d5c7889ee99.png)<br> Credits: [Varlesh](https://github.com/PapirusDevelopmentTeam/materia-kde) |
+|![Material Rice Example](https://images.pling.com/img/00/00/43/80/78/1229140/99c41b3a358c1d87fd833d6b327c9aaf998ac9f807dfbe161d3f6aed8d5c7889ee99.png)<br>Rice Credits: [Varlesh](https://github.com/PapirusDevelopmentTeam/materia-kde) |

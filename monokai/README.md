@@ -20,11 +20,11 @@
 
 </details> 
 
-| Terminal Emulators | Theme	|
-|--------------------|--------|
-| Kitty 						 | `kitty +kitten themes` |
-| Alacritty 				 | You can find the theme [here](https://github.com/aarowill/base16-alacritty/blob/master/colors/base16-monokai.yml) |
+| Terminal Emulators | Theme	                                                                                                    |
+|--------------------|------------------------------------------------------------------------------------------------------------|
+| Kitty 						 | `kitty +kitten themes`                                                                                     |
+| Alacritty 				 | Theme available [here](https://github.com/aarowill/base16-alacritty/blob/master/colors/base16-monokai.yml) |
 
 | Rice Example |
 | --- |
-|![Monokai Rice Example](https://preview.redd.it/l6fhv09jo3h41.png?width=640&crop=smart&auto=webp&v=enabled&s=a6fd51bc7e09629c3f24f067e025a90d262dce3b) <!-- Image source (probably reddit or github) --> <br>Credits: [AtomToast](https://github.com/AtomToast/dotfiles) |
+|![Monokai Rice Example](https://preview.redd.it/l6fhv09jo3h41.png?width=640&crop=smart&auto=webp&v=enabled&s=a6fd51bc7e09629c3f24f067e025a90d262dce3b)<br>Rice Credits: [AtomToast](https://github.com/AtomToast/dotfiles) |

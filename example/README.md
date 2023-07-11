@@ -1,8 +1,8 @@
-<h1 align="center">Theme Name</h1>
+<h1 align="center">"Theme"</h1>
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| ["Theme"](https://myawesometheme.com)<!-- Link to theme source or creator --> | Description of your theme | !["Theme" Palette](./"theme"_palette.png) | ![Widgets and UI Elements](./"theme".png) | [Source](https://github.com/ricemaster69/my-epic-gtk-theme/releases/)<!-- link to your most recent gtk theme source e.g Pling, Github, Gnome-Looks --> |
+| ["Theme"](https://myawesometheme.com)<!-- Link to theme source or creator --> | Description of your theme | !["Theme" Palette](./"theme"_palette.png) | !["Theme" Widgets and UI Elements](./"theme".png) | [Source](https://github.com/ricemaster69/my-epic-gtk-theme/releases/)<!-- link to your most recent gtk theme source e.g Pling, Github, Gnome-Looks --> |
 
 <details>
 <summary>"Theme" Palette</summary>
@@ -21,13 +21,14 @@
 <!-- If you don't have bright variants then remove the columns after your initial 8 hex values. -->
 </details> 
 
-| Terminal Emulators   | Theme                                                                                                                                                                 |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Terminal your theme supports]                | [How to apply your theme]                                                                                           |                        |
-| [Terminal your theme supports]                | [How to apply your theme]                                                                                           |                        |
+| Terminal Emulators             | Theme                     |
+|--------------------------------|---------------------------|
+| [Terminal your theme supports] | [How to apply your theme] |
+| [Terminal your theme supports] | [How to apply your theme] |
 
 | Rice Example |
 | --- |
-|!["Theme" Rice Example](https://myawesometheme.com/myawesomerice.png) <!-- Image source (probably reddit or github) --> <br>Credits: [Username (Ideally github or reddit)](https://github.com/ricemaster69/) |
+|!["Theme" Rice Example](https://myawesometheme.com/myawesomerice.png) <!-- Image source (probably reddit or github) --> <br>Rice Credits: [Username (Ideally github or reddit)](https://github.com/ricemaster69/) |
 
 <!-- If you get stuck just look at the themes I have already added as a reference -->
+<!-- Delete all comments after finishing please :) -->

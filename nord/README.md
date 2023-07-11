@@ -20,11 +20,11 @@
 
 </details> 
 
-| Terminal Emulators | Theme	|
-|--------------------|--------|
+| Terminal Emulators | Theme	                                                                          |
+|--------------------|----------------------------------------------------------------------------------|
 | Kitty              | `kitty +kitten themes`                                                           |
 | *				           | Search for your terminal [here](https://www.nordtheme.com/ports)        					|
 
 | Rice Example |
 | --- |
-|![Nord Rice Example](https://i.imgur.com/ueybCmv.png) <!-- Image source (probably reddit or github) --> <br>Credits: [u/cccm5](https://github.com/oh-noey/dotfiles) |
+|![Nord Rice Example](https://i.imgur.com/ueybCmv.png)<br>Rice Credits: [u/cccm5](https://github.com/oh-noey/dotfiles) |

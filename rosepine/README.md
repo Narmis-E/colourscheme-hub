@@ -2,7 +2,7 @@
 
 | Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Rosé Pine](https://rosepinetheme.com/) | All natural pine, faux fur and a bit of soho vibes for the classy minimalist. | ![Rosé Pine Palette](./rosepine_palette.png) | ![Widgets and UI Elements](./rosepine.png) | [Official Github Repo](https://github.com/rose-pine/gtk) |
+| [Rosé Pine](https://rosepinetheme.com/) | All natural pine, faux fur and a bit of soho vibes for the classy minimalist. | ![Rosé Pine Palette](./rosepine_palette.png) | ![Rosé Pine Widgets and UI Elements](./rosepine.png) | [Official Github Repo](https://github.com/rose-pine/gtk) |
 
 <details>
 <summary>Rosé Pine Palette</summary>
@@ -20,10 +20,10 @@
 
 </details> 
 
-| Terminal Emulators   | Theme                                              |
-|----------------------|----------------------------------------------------|
-| *										 | search for your terminal [here](https://rosepinetheme.com/themes/) |
+| Terminal Emulators | Theme                                                              |
+|--------------------|--------------------------------------------------------------------|
+| *									 | search for your terminal [here](https://rosepinetheme.com/themes/) |
 
 | Rice Example |
 | --- |
-| ![Rosé Pine Rice Example](https://github.com/Narmis-E/colourscheme-hub/assets/109248529/330b40de-4a4e-4f48-9b3f-e64cce24607e)<br>Credits: [Me!](https://github.com/Narmis-E/sway-rosepine)
+| ![Rosé Pine Rice Example](https://github.com/Narmis-E/colourscheme-hub/assets/109248529/330b40de-4a4e-4f48-9b3f-e64cce24607e)<br>Rice Credits: [Narmis-E](https://github.com/Narmis-E/sway-rosepine)
