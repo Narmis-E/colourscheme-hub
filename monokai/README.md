@@ -1,69 +1,30 @@
-# Monokai
-### Description:
-A color palette for professional developers.
+<h1 align="center">Monokai</h1>
 
-### Color Palette:
-
-![](./monokai_palette.png)
+| Theme | Description | Color Palette | Widgets and UI Elements | GTK Themes |
+| :---: | :---: | :---: | :---: | :---: |
+| [Monokai](https://monokai.pro/) | A color palette for professional developers. | ![Monokai Palette](./monokai_palette.png) | ![Monokai Widgets and UI Elements](./monokai.png) | [Github Repo](https://github.com/mitch-kyle/monokai-gtk) |
 
 <details>
-<summary>Monokai</summary>
-<table>
-	<tr>
-		<th>Colour</th>
-		<th>Hex</th>
-	</tr>
-	<tr>
-		<td>Background</td>
-		<td><code>#272822</code></td>
-	</tr>
-  <tr>
-		<td>Background-bright</td>
-		<td><code>#75715E</code></td>
-	</tr>
-  <tr>
-		<td>Red</td>
-		<td><code>#F92672</code></td>
-	</tr>
-  <tr>
-		<td>Green</td>
-		<td><code>#A6E22E</code></td>
-	</tr>
-  <tr>
-		<td>Yellow</td>
-		<td><code>#E6DB74</code></td>
-  </tr>
-  <tr>
-		<td>Blue</td>
-		<td><code>#66D9EF</code></td>
-	</tr>
-  <tr>
-		<td>Orange</td>
-		<td><code>#FD971F</code></td>
-	</tr>
-  <tr>
-		<td>Purple</td>
-		<td><code>#AE81FF</code></td>
-	</tr>
-  <tr>
-		<td>Foreground</td>
-		<td><code>#F8F8F2</code></td>
-	</tr>
-</table>
-</details>
+<summary>Monokai Palette</summary>
 
-### Widgets and UI Elements:
+| Code | Colour             | Hex       | Code | Colour             | Hex       |
+|------|--------------------|-----------|------|--------------------|-----------|
+| 1    | Background         | `#272822` | 9    | Background-bright  | `#75715E` |
+| 2    | Red                | `#F92672` |	10	 | -									|						|
+| 3    | Green              | `#A6E22E` | 11   | -									|						|
+| 4    | Yellow             | `#E6DB74` | 12   | -									|						|
+| 5	   | Blue	              | `#66D9EF` | 13   | -									|						|
+| 6    | Orange             | `#FD971F` | 14   | -									|						|
+| 7    | Purple             | `#AE81FF` | 15   | -									|						|
+| 8    | Foreground         | `#F8F8F2` | 16	 | -								  | 				  |
 
-![](./monokai.png)
+</details> 
 
-### GTK Themes:
-[Github Repo](https://github.com/mitch-kyle/monokai-gtk)
+| Terminal Emulators | Theme	|
+|--------------------|--------|
+| Kitty 						 | `kitty +kitten themes` |
+| Alacritty 				 | You can find the theme [here](https://github.com/aarowill/base16-alacritty/blob/master/colors/base16-monokai.yml) |
 
-### Terminal Theme:
-Kitty provides in `kitty +kitten themes`\
-[Alacritty](https://github.com/aarowill/base16-alacritty/blob/master/colors/base16-monokai.yml)
-
-### Rice Example:
-
-![](https://preview.redd.it/l6fhv09jo3h41.png?width=640&crop=smart&auto=webp&v=enabled&s=a6fd51bc7e09629c3f24f067e025a90d262dce3b)\
-Credits: [AtomToast](https://github.com/AtomToast/dotfiles)
+| Rice Example |
+| --- |
+|![Monokai Rice Example](https://preview.redd.it/l6fhv09jo3h41.png?width=640&crop=smart&auto=webp&v=enabled&s=a6fd51bc7e09629c3f24f067e025a90d262dce3b) <!-- Image source (probably reddit or github) --> <br>Credits: [AtomToast](https://github.com/AtomToast/dotfiles) |
