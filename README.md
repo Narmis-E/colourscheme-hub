@@ -33,9 +33,10 @@ If you would like to contribute to repository by adding your own theme, please f
 2. Make a copy of the `example` directory with the name of your theme.
 3. Your theme directory **must** include a `theme_palette.png`, (if you have a GTK theme) a `theme_widgets.png` and the README.md you copied over.
 4. In the README, **replace all instances of "Theme" with your theme name** and **"theme" with your theme name in lowercase** (underscores for spaces).
-5. Commit the changes and push them to your forked repository.
-6. Open a pull request to merge your changes.
-7. If everything looks good I will merge your theme :)
+5.Fill out the rest of the README according to the comments (desc, hex codes, theme source)
+6. Commit the changes and push them to your forked repository.
+7. Open a pull request to merge your changes.
+8. If everything looks good I will merge your theme :)
    
 ## Theme Image formats
 I currently don't have an **absolute** set in stone way for others to reproduce the screenshots, but here are the steps I took:
