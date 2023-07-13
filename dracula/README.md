@@ -9,16 +9,14 @@
 
 | Code | Colour             | Hex       | Code | Colour             | Hex       |
 |------|--------------------|-----------|------|--------------------|-----------|
-| 1    | Background         | `#000000` | 9    | Background-bright  | `#545454` |
-| 2    | Red                | `#FF5555` |	10	 | -									|						|
-| 3    | Green              | `#50FA7B` | 11   | -									|						|
-| 4    | Yellow             | `#F0FA8B` | 12   | -									|						|
-| 5	   | Purple             | `#BD92F8` | 13   | -									|						|
-| 6    | Pink               | `#FF78C5` | 14   | -									|						|
-| 7    | Cyan               | `#8AE9FC` | 15   | -									|						|
+| 1    | Background         | `#000000` | 9    | Background-Bright  | `#545454` |
+| 2    | Red                | `#FF5555` |	10	 | Red-Bright					|	`#FF6E6E`	|
+| 3    | Green              | `#50FA7B` | 11   | Green-Bright				|	`#69FF94`	|
+| 4    | Yellow             | `#F0FA8B` | 12   | Yellow-Bright			|	`#FFFFA5`	|
+| 5	   | Purple             | `#BD92F8` | 13   | Purple-Bright			|	`#D6ACFF`	|
+| 6    | Pink               | `#FF78C5` | 14   | Pink-Bright				|	`#FF92DF`	|
+| 7    | Cyan               | `#8AE9FC` | 15   | Cyan-Bright				|	`#A4FFFF`	|
 | 8    | Foreground         | `#BBBBBB` | 16	 | Foreground-Bright  | `#FFFFFF` |
-
-The bright variants of the colors seem to be missing? (they once existed before)
 
 </details> 
 
