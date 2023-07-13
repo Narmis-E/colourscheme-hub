@@ -1,10 +1,6 @@
 # colourscheme-hub
 
-Modern UNIX customisation is mostly denoted by the use of colourschemes, which alter the colours used by applications.\
-More often than not, colourschemes are often created for the theming for GTK, a toolkit used to create many graphical applications.
-
-This repository acts as a centralised hub for the discovery and showcase of different GTK colourschemes for newcomers to the ricing scene, or for ricers searching for something fresh.\
-For now this repository will only cover colourschemes which have a GTK theme counterpart to standard terminal 8 colour ANSI sequence and vice versa.
+This repository serves as a centralized hub for discovering and showcasing various GTK colorschemes. Colorschemes are widely used in modern UNIX customization to alter the colors of applications. Whether you're new to ricing or an experienced ricer looking for something new, this repository offers a collection of GTK colorschemes that have a counterpart for standard terminal 8/16-color ANSI sequences and vice versa.
 
 [I want to add a theme!](#adding-your-theme)
 
